@@ -23,11 +23,11 @@ global.language = english  //change indonesia to english if you don't understand
 
 
 // Other
-global.botname = "Jokerboz-Mdོ" //namabot kalian
+global.botname = "Dockerboz-Mdོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄defα͢͢͢ή彡" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
+global.github = "https://github.com/Defan11/" //bebas
 global.email = "defansugiarto5@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
@@ -38,7 +38,7 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
-global.packname = '© JokerBoz-Mdོ' //sticker wm ubah
+global.packname = '© DockerBoz-Mdོ' //sticker wm ubah
 global.author = 'Di Buat Oleh ᴹг defα͢͢͢ή彡' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
