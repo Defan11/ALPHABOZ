@@ -26,7 +26,7 @@ global.language = english  //change indonesia to english if you don't understand
 global.botname = "Dockerboz-Mdོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄defα͢͢͢ή彡" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
+global.instagram = "https://www.instagram.com/invites/contact/?i=95vynbw6un5k&utm_content=kjc21le" //bebas asal jan hapus
 global.github = "https://github.com/Defan11/" //bebas
 global.email = "defansugiarto5@gmail.com" //bebas
 global.region = "Indonesia" //bebas
